@@ -1,6 +1,6 @@
 FROM python:3
 
-RUN git clone https://github.com/NicoBeast98/TaTeTI.git
+RUN git clone https://github.com/lucasfozzatti/Musical.git
 
 WORKDIR /practica_final_python
 
